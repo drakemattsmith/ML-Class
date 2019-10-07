@@ -1,2 +1,2 @@
 # ML-Class
-Andrew Ng ML Class
+Andrew Ng's ML Class
